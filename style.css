@@ -694,9 +694,7 @@ h1 { font-weight: 400; font-size: 2.5rem; }
     .creative-link { font-size: 1.8rem; }
 }
 
-/* Normal Desktop Styles inga irukkum */
-
-/* Mobile-ku mattum ulla styles */
+/* Mobile-ku mattum ulla styles (From your code) */
 @media only screen and (max-width: 600px) {
   body {
     background-color: lightblue; /* Example change */
